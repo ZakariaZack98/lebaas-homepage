@@ -14,12 +14,14 @@
     color: rgb(112, 112, 224);
     text-shadow: 2px 2px 30px rgba(0, 0, 0, 0.486);
     letter-spacing: 20px;
+    margin-left: 1rem;
 }
 
 .searcharea {
     position: fixed;
     top: 6%;
     right: 6%;
+    margin-right: 8px;
 }
 
 .searchbox {
