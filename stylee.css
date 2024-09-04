@@ -49,6 +49,8 @@
     opacity: 50%;
 }
 
+/* Banner Starts------------------------ */
+
 .banner {
     display: flex;
     width: 80%;
@@ -147,6 +149,8 @@
     scale: 1.7;
     transition: ease-in 0.2s;
 }
+
+/* FlashSAle Starts----------------------- */
 
 .sellheader {
     margin-bottom: 100px;
@@ -249,6 +253,8 @@
     scale: 1.05;
     transition: ease-in 0.1s;
 }
+
+/* About section------------------------ */
 
 .abt-container {
     margin: 0 auto;
